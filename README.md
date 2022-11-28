@@ -1,5 +1,5 @@
 # bucc2022
-Code for the __BUCC 2022 Shared Task on bilingual term alignment in comparable corpora__.
+Code for the [BUCC 2022 Shared Task on bilingual term alignment in comparable corpora](https://comparable.limsi.fr/bucc2022/bucc2022-task.html).
 
 ## Computing evaluation scores, including uninterpolated Average Precision
 
